@@ -1,0 +1,132 @@
+body {
+    overflow-x: hidden;
+}
+
+#circle1 {
+    position: absolute;
+    width: 1293px;
+    height: 1293px;
+    left: -300px;
+    top: -1082px;
+    background: #FFF7F7;
+    height: 1293px;
+    border-radius: 50%;
+}
+
+#circle2 {
+    position: absolute;
+    width: 1293px;
+    height: 1293px;
+    left: 620px;
+    top: -899px;
+    border-radius: 50%;
+    background: #FFFDF3;
+    z-index: -1;
+}
+
+#circle3 {
+    position: absolute;
+    width: 1293px;
+    height: 1293px;
+    left: -821px;
+    top: 1026px;
+    border-radius: 50%;
+    z-index: -1;
+    background: #FFF7F7;
+}
+
+#circle4 {
+    position: absolute;
+    width: 1293px;
+    height: 1293px;
+    left: -818.6px;
+    top: 3038.94px;
+
+    background: #FFFDF3;
+    border-radius: 50%;
+    z-index: -1;
+}
+
+#circle5 {
+    position: absolute;
+    width: 1293px;
+    height: 1193px;
+    left: 1212.6px;
+    top: 3051.94px;
+
+    background: #FFF7F7;
+    border-radius: 50%;
+    z-index: -1;
+}
+#circle6{
+    position: absolute;
+width: 1293px;
+height: 1293px;
+left: -811px;
+top: -22px;
+z-index: -1;
+border-radius: 50%;
+background: #FFF7F7;
+}
+#circle7{
+    position: absolute;
+width: 1293px;
+height: 1293px;
+left: 454px;
+top: 553px;
+z-index: -1;
+border-radius: 50%;
+background: #FFFDF3;
+}
+#circle8{
+    position: absolute;
+width: 1293px;
+height: 1293px;
+left: 869px;
+top: 604px;
+z-index: -1;
+border-radius: 50%;
+
+background: #FFFDF3;
+}
+#circle9{
+    position: absolute;
+    width: 1293px;
+    height: 1293px;
+    left: 1007.6px;
+    top: 2352.94px;
+    
+    background: #FFF7F7;
+z-index: -1;
+border-radius: 50%;
+}
+#circle10{
+    position: absolute;
+width: 1293px;
+height: 1293px;
+left: -928.6px;
+top: 2290.94px;
+z-index: -1;
+border-radius: 50%;
+background: #FFFDF3;
+}
+#circle11{
+    position: absolute;
+width: 593px;
+height: 593px;
+left: -375px;
+top: 781px;
+z-index: -1;
+border-radius: 50%;
+background: #FFF7F7;
+}
+#circle12{
+    position: absolute;
+width: 1293px;
+height: 1293px;
+left: -857px;
+top: 347px;
+z-index: -1;
+border-radius: 50%;
+background: #FFF7F7;
+}
